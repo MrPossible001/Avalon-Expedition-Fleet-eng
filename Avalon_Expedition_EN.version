@@ -1,0 +1,11 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/MrPossible001/Avalon-Expedition-Fleet-eng/main/Avalon_Expedition_EN.version",
+	"modName":"AEF-The Avalon Expedition [English]",
+	"directDownloadURL":"https://github.com/MrPossible001/Avalon-Expedition-Fleet-eng/releases/latest",
+	"modVersion":
+	{
+		"major":0,
+		"minor":6,
+		"patch":"9s2"
+	}
+}
